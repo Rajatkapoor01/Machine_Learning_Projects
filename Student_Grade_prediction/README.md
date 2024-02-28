@@ -1,3 +1,17 @@
+# Student Grade Prediction Project 📚✨
+
+## Introduction
+Welcome to the Student Grade Prediction project! This project aims to predict the grades of students based on various factors such as study time, previous grades, and other relevant parameters. By leveraging machine learning techniques, we endeavor to create a model that can assist educators in identifying students who may require additional support and intervention.
+
+## Contributors 🙌
+- Rajat Kapoor (Project Lead)
+
+## Acknowledgments 🙏
+We would like to express our gratitude to all contributors and mentors who have supported this project. Additionally, we appreciate the availability of open datasets and resources that have facilitated our research and model development efforts.
+
+## License 📜
+This project is licensed under the [MIT License]
+
 # STUDENT-GRADE-ANALYSIS-PREDICTION
 ### Objective
 Prediction of the final grade of Portugese high school students
@@ -78,10 +92,5 @@ Using various packages such as cufflinks, seaborn & matplotlib to represent the 
 15. Reason vs Students Count
 
 
-
-### Citation
-P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7.
-
-
-
-
+## Feedback and Contributions 📣
+Feedback and contributions are welcome! If you have any suggestions, ideas, or would like to contribute to this project, please feel free to reach out to us.
